@@ -9,10 +9,13 @@ void func1() {
 
 void func2() {
 	int c = 10;
+	char gangnamStyle='!';
 }
 
 
-// ÇöÀç ¹öÀüÀÌ ¹öÀü1ÀÓ
-// ³»°¡ func1À» ¼öÁ¤ÇÏ°í push¾ÈÇÏ°í ±â´Ù¸±Å×´Ï
-// µý »ç¶÷ÀÌ func2¸¦ ¼öÁ¤ÇÏ°í pushÇÏ¼À
-// ¾î¶»°Ô Ãæµ¹³ª³ª Á» º¸°Ô
+// í˜„ìž¬ ë²„ì „ì´ ë²„ì „1ìž„
+// ë‚´ê°€ func1ì„ ìˆ˜ì •í•˜ê³  pushì•ˆí•˜ê³  ê¸°ë‹¤ë¦´í…Œë‹ˆ
+// ë”´ ì‚¬ëžŒì´ func2ë¥¼ ìˆ˜ì •í•˜ê³  pushí•˜ì…ˆ
+// ì–´ë–»ê²Œ ì¶©ëŒë‚˜ë‚˜ ì¢€ ë³´ê²Œ
+
+//í•˜ëŠ˜ì•„ ìž˜í–ˆì§€?
